@@ -34,4 +34,4 @@ I'm Damien, a Junior Mobile Developer from **France** 🇫🇷.
 ###  WHO AM I? 🤔
 
 - :denmark:  I'm currently working remotely from France for **AppVestor**, **Denmark** 
-- :seedling: I'm currently learning SwiftUI by my own.
+- :seedling: I'm currently learning **SwiftUI** by my own.
