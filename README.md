@@ -46,10 +46,10 @@ In a previous life, I was a consultant in Digital Marketing and E-Commerce for t
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=Android-Studio&color=3ddc84)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=Visual-Studio-Code&color=0076c6)
-![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=XCode&color=0077ed)
-![](https://img.shields.io/badge/Tools-Eclipse-informational?style=flat&logo=Eclipse&color=281c54)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=Android-Studio&color=3ddc84)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual-Studio-Code&color=0076c6)
+![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=XCode&color=0077ed)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse&color=281c54)
 
 </br>
 
