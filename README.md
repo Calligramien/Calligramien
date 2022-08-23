@@ -4,14 +4,28 @@
 
 # Hi there 👋
 
-I'm Damien, a Junior Mobile Developer from **France** 🇫🇷.
+I'm **Damien**, a Junior Mobile Developer from **France** 🇫🇷.
+
+In a previous life, I was a consultant in Digital Marketing and E-Commerce for the Chinese market. That's why I lived in China (Beijing and Shanghai). I wanted to make a career change and become a digital "artisan". Fascinated by the digitalization in Asia, I wanted to create apps and digital experiences myself. 
+
+👨‍💻 I've been coding since May 2021 and I'm a professional developer since January 2022.
+
+:denmark:  I'm currently working remotely from France for **AppVestor**, **Denmark**
 </br> 
 
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/damgautier/"><img align="left" src="https://raw.githubusercontent.com/Calligramien/Calligramien/main/images/linkedin.svg" alt="Damien | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/Calligramien"><img align="left" src="https://raw.githubusercontent.com/Calligramien/Calligramien/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://instagram.com/Calligramien"><img align="left" src="https://raw.githubusercontent.com/Calligramien/Calligramien/main/images/instagram.svg" alt="Damien | Instagram" width="21px"/></a>
 </br>
-</br> 
+
+- 💬 If you have any question/feedback, please do not hesitate to reach me out!
+
+## ☄️ I'm currently working on
+- Building my first iOS app
+
+## :seedling: I'm currently learning
+- 📱 SwiftUI
+
 
 ## :hammer_and_wrench:  Languages and Tools
 <div>
@@ -32,8 +46,3 @@ I'm Damien, a Junior Mobile Developer from **France** 🇫🇷.
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" **alt="Slack" width="40" height="40"/>
 </div>
 </br> 
-
-###  WHO AM I? 🤔
-
-- :denmark:  I'm currently working remotely from France for **AppVestor**, **Denmark** 
-- :seedling: I'm currently learning **SwiftUI** by my own.
