@@ -1,12 +1,15 @@
 # Hi there 👋
 
+</br> 
 
 I'm Damien, a Junior Mobile Developer from **France** 🇫🇷.
+</br> 
 
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/damgautier/"><img align="left" src="https://raw.githubusercontent.com/Calligramien/Calligramien/main/images/linkedin.svg" alt="Damien | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/Calligramien"><img align="left" src="https://raw.githubusercontent.com/Calligramien/Calligramien/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
+</br> 
 
 ## :hammer_and_wrench:  Languages and Tools
 <div>
@@ -26,17 +29,9 @@ I'm Damien, a Junior Mobile Developer from **France** 🇫🇷.
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="Google" **alt="Google" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" **alt="Slack" width="40" height="40"/>
 </div>
-
-### NOW
-
-- ✨ 
+</br> 
 
 ###  WHO AM I? 🤔
 
 - :denmark:  I'm currently working remotely for **AppVestor** in **Denmark** 
-
-### :computer:  What am I currently learning
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-</div>
+- :seedling: I'm currently learning SwiftUI by my own.
