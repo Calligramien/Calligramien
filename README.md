@@ -1,6 +1,8 @@
-# Hi there 👋
+<p align="center">
+  <a href="https://www.artstation.com/lennartbutz"><img align="center" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606" alt="lennartbutz | ArtStation"/></a>
+</p>
 
-</br> 
+# Hi there 👋
 
 I'm Damien, a Junior Mobile Developer from **France** 🇫🇷.
 </br> 
