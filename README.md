@@ -25,18 +25,11 @@ I'm Damien, a Junior Mobile Developer from **France** 🇫🇷.
 
 ### NOW
 
-- ✨ Crafted last Laracon Online website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+- ✨ 
 
 ###  WHO AM I? 🤔
 
 - :denmark:  I'm currently working remotely for **AppVestor** in **Denmark** 
-- 🌍 I'm mostly active within the Laravel Community
-- 💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
-- 🌱 Learning all about Open Source
-- 💬 Ping me about design, branding, laravel, development, design thinking
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 ### :computer:  What am I currently learning
 <div>
