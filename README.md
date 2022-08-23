@@ -27,7 +27,7 @@ In a previous life, I was a consultant in Digital Marketing and E-Commerce for t
 - 📱 SwiftUI
 
 
-## :hammer_and_wrench:  Languages and Tools
+## :hammer_and_wrench:  Technical Skills
   ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=8e4fe6)
   ![](https://img.shields.io/badge/Code-Jetpack_Compose-informational?style=flat&logo=Jetpack-Compose&color=8e4fe6)
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=ed831d)
