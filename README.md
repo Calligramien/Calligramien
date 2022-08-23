@@ -3,6 +3,10 @@
 
 I'm Damien, a Junior Mobile Developer from **France** 🇫🇷.
 
+### 🤝 Connect with me
+<a href="https://www.linkedin.com/in/damgautier/"><img align="left" src="https://raw.githubusercontent.com/Calligramien/Calligramien/main/images/linkedin.svg" alt="Damien | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/Calligramien"><img align="left" src="https://raw.githubusercontent.com/Calligramien/Calligramien/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+</br>
 
 ## :hammer_and_wrench:  Languages and Tools
 <div>
