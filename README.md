@@ -4,13 +4,13 @@
 
 # Hi there 👋
 
-I'm **Damien**, a Junior Mobile Developer from **France** 🇫🇷.
+<p I'm **Damien**, a Junior Mobile Developer from **France** 🇫🇷.
 
 In a previous life, I was a consultant in Digital Marketing and E-Commerce for the Chinese market. That's why I lived in China (Beijing and Shanghai). I wanted to make a career change and become a digital "artisan". Fascinated by the digitalization in Asia, I wanted to create apps and digital experiences myself. 
 
 👨‍💻 I've been coding since May 2021 and I'm a professional developer since January 2022.
 
-:denmark:  I'm currently working remotely from France for **AppVestor**, **Denmark**
+:denmark:  I'm currently working remotely from France for **AppVestor**, **Denmark**</p>
 </br> 
 
 ### 🤝 Connect with me
@@ -18,13 +18,13 @@ In a previous life, I was a consultant in Digital Marketing and E-Commerce for t
 <a href="https://instagram.com/Calligramien"><img align="left" src="https://raw.githubusercontent.com/Calligramien/Calligramien/main/images/instagram.svg" alt="Damien | Instagram" width="21px"/></a>
 </br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach me out!
+<li> 💬 If you have any question/feedback, please do not hesitate to reach me out!</li>
 
 ## ☄️ I'm currently working on
-- Building my first iOS app
+<li> Building my first iOS app</li>
 
 ## :seedling: I'm currently learning
-- 📱 SwiftUI
+<li>📱 SwiftUI</li>
 
 
 ## :hammer_and_wrench:  Technical Skills
